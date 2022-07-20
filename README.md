@@ -1,2 +1,2 @@
 # BMI-Calculator
-Just a simple app that lets you calculate your body mass index.
+Just a simple android app that lets you calculate your body mass index.
